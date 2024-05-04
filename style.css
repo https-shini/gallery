@@ -7,7 +7,7 @@
 
 body {
     background-image: url("./images/wallpaper.png");
-    background-size: 1900px 1000px;
+    background-size: 1920px 1080px;
 }
 
 .container {
@@ -27,4 +27,9 @@ body {
 
 .gallery img {
     width: 100%;
+}
+
+#coursology-canvas {
+    width: 1850;
+    height: 1080;
 }
